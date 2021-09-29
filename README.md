@@ -13,7 +13,7 @@
 ##### 4. Armazenar o campo CPF do ResponseBody em uma variável nomeada CPF.
 ##### 5. Limpar a variável CPF.
 
-## Script criado com Robot Framework com a biblioteca:
+## Script criado com Robot Framework com as bibliotecas:
 
 ##### RequestsLibrary
 ##### Collections
