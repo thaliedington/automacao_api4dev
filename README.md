@@ -25,5 +25,3 @@
 ##### Robot Framework instalado
 ##### RequestsLibrary (Robot)
 ##### JSONLibrary
-
-## Assista o Robot agindo
